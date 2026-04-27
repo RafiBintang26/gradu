@@ -3,5 +3,5 @@ function goToNext() {
     console.log("Mengarahkan ke halaman selanjutnya...");
     
     // Ganti URL di bawah dengan alamat web tujuanmu
-    window.location.href = "https://t.me"; 
+    window.location.href = "https://beygradu.vercel.app/"; 
 }
